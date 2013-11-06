@@ -4,7 +4,7 @@ hack-lab-seed
 This is the staring point for a hacking class project.
 
  MelanieNelson
- 
+ http://melanienelson.github.io/hack-lab-seed/
  
  http://api.jquerymobile.com/page/
  
